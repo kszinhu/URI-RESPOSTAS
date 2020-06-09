@@ -1,3 +1,8 @@
+/*
+2748 - Saída 2
+> Cassiano Rodrigues
+> 26/05/2020
+*/
 #include <stdio.h>
 main(){
     printf("---------------------------------------\n");
