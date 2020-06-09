@@ -1,7 +1,7 @@
 /*
-URI 1960 - Numeração Romana para Números de Página
+1960 - Numeração Romana para Números de Página
 > Cassiano Rodrigues
-> 08/05/2020
+> 08/06/2020
 */
 #include <stdio.h>
 main(){
