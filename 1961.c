@@ -6,12 +6,12 @@
 #include <stdio.h>
 #include <stdlib.h>
 main(){
-int pulo_sapo,num_canos,num_canost,tam_cano,anterior,sim_p=0,i; 
+    int pulo_sapo,num_canos,num_canost,tam_cano,anterior,sim_p=0,i; 
 
-	scanf("%d",&pulo_sapo);scanf("%d",&num_canos);
+		scanf("%d",&pulo_sapo);scanf("%d",&num_canos);
 	num_canost=num_canos;
 	num_canos--;
-	scanf("%d",&tam_cano);
+		scanf("%d",&tam_cano);
 	anterior=tam_cano;
 
 	for(i=0;i<num_canost;i++){
