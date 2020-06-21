@@ -1,0 +1,2 @@
+# URI-RESPOSTAS
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/14b0f32f6740422e9b45ee7be81f456e)](https://app.codacy.com/manual/kszinhu/URI-RESPOSTAS?utm_source=github.com&utm_medium=referral&utm_content=kszinhu/URI-RESPOSTAS&utm_campaign=Badge_Grade_Dashboard)
