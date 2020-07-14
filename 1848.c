@@ -8,7 +8,7 @@
 main(){ 
     char piscada[10];
     int loteria,i,contador=3;
-    while(contador--){
+    for(i=0;i<3;i++){
         loteria=0;
         while(1){
             scanf("%s caw",&piscada);
